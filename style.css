@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: "Arvo";
+  letter-spacing: -0.02em;
+}
+
+h2, p {
+  font-family: "Nunito";
+}
